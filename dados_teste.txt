@@ -1,0 +1,12 @@
+DADOS DE TESTE
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+cookie: token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEiLCJ1c2VybmFtZSI6IlNldmVuR28iLCJleHAiOjE3MzQ0MDAxMDUuNjEzNjIxfQ.cURRmlw4pZMFGkJS6bHQkQRBM9XCatN-v6ko0N1fzVU :
+dashboard cliente: 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRlIjoxfQ.ceZd1iKXPOLF2ThY4uRyBOESYTFGGjJv2MU2Yq_Rc-Q
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------
+login: suporte@suitefunnels.com.br  :
+senha: 23061309                     :
+-------------------------------------
